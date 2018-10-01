@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Srinidhi Goud
+   last: Myadaboyina
+email: sgm400@nyu.edu
+leaderboard: sgm400
